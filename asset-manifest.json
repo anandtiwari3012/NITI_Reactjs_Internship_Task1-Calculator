@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NITI_Reactjs_Internship_Task1-Calculator/static/css/main.f468447d.css",
+    "main.js": "/NITI_Reactjs_Internship_Task1-Calculator/static/js/main.41e5e962.js",
+    "index.html": "/NITI_Reactjs_Internship_Task1-Calculator/index.html",
+    "main.f468447d.css.map": "/NITI_Reactjs_Internship_Task1-Calculator/static/css/main.f468447d.css.map",
+    "main.41e5e962.js.map": "/NITI_Reactjs_Internship_Task1-Calculator/static/js/main.41e5e962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f468447d.css",
+    "static/js/main.41e5e962.js"
+  ]
+}
